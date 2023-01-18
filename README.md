@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **leandro.sousa23tec@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/leandro-sousa-984138248/](https://www.linkedin.com/in/leandro-sousa-dev/](https://www.linkedin.com/in/leandro-sousa-dev/))](https://www.linkedin.com/in/leandro-sousa-984138248/)
+- 📄 Know about my experiences https://www.linkedin.com/in/leandro-sousa-dev/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
