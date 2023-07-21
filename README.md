@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [leandrosousa.dev](leandrosousa.dev)
+- 👨‍💻 All of my projects are available at [leandrosousa.dev](https://leandrosousa.dev/)
 
 - 📫 How to reach me **leandro.sousa23tec@gmail.com**
 
