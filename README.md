@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leandro Sousa</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leandrexfc" alt="leandrexfc" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://leandrosousa.dev/](https://leandrosousa.dev/)
 
 - 📫 How to reach me **leandro.sousa23tec@gmail.com**
