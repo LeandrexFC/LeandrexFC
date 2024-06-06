@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leandro Sousa</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 👨‍💻 All of my projects are available at [https://leandrosousa.dev/](https://leandrosousa.dev/)
+- 👨‍💻 All of my projects are available at [https://leandrosousa.dev/](https://leandrosousa.org/)
 
 - 📫 How to reach me **leandro.sousa23tec@gmail.com**
 
